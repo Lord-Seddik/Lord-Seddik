@@ -20,6 +20,7 @@ player:      Bachounda Seddik
 class:       Computer Science student & developer
 playstyle:   local-first tools, browser extensions, careful AI
 languages:   [Arabic, English, French]
+site:   seddikbachounda.com
 ```
 
 <details>
